@@ -14,7 +14,7 @@ The core idea is to build a hybrid desktop-to-cloud platform that eliminates the
 
 ## Repository Purpose
 
-This repository serves as the public architectural blueprint for the Kortex Cloud AI platform. 
+This repository serves as the public architectural blueprint for the Teron Cloud AI platform. 
 
 Because the platform relies on proprietary AI orchestration and secure local execution, the core engine and backend state machines are maintained in a separate, private repository (`teron-cloud-ai`). 
 

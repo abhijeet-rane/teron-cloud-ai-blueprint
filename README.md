@@ -6,7 +6,7 @@
 
 **Teron Cloud AI** is an autonomous, multi-cloud Site Reliability Engineering (SRE) agent designed to handle Day-2 cloud operations, incident response, and infrastructure self-healing. 
 
-The core idea is to build a hybrid desktop-to-cloud platform that eliminates the manual labor of debugging cloud downtime. When an infrastructure issue occurs (e.g., an RDS memory bottleneck or an EC2 health check failure), Kortex is being designed to:
+The core idea is to build a hybrid desktop-to-cloud platform that eliminates the manual labor of debugging cloud downtime. When an infrastructure issue occurs (e.g., an RDS memory bottleneck or an EC2 health check failure), Teron Cloud AI is being designed to:
 
 1. **Analyze:** Automatically ingest and parse telemetry data (like AWS CloudWatch logs) to find the root cause.
 2. **Plan:** Leverage a multi-agent AI backend to formulate a secure, infrastructure-as-code solution.
